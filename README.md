@@ -3,7 +3,7 @@
 This repository contains a collection of Python projects completed during an internship, focused on **data analysis, visualization, and practical Python applications**.  
 Each project demonstrates hands-on problem-solving using real datasets and commonly used Python libraries.
 
-The purpose of this repository is to showcase **applied Python skills**, structured analysis, and real-world data handling.
+The purpose of this repository is to showcase **applied Python skills**,structured analysis, and real-world data handling.
 
 ---
 
