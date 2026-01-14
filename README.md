@@ -9,7 +9,7 @@ The purpose of this repository is to showcase **applied Python skills**,structur
 
 ## 📁 Repository Overview
 
-The projects included cover multiple domains such as data analytics, automation, and exploratory data analysis.
+The projects included cover multiple domains such as data analytics,automation, and exploratory data analysis.
 
 ### Projects Included
 
